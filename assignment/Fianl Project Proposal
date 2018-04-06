@@ -1,0 +1,29 @@
+# Final Project Proposal
+
+## Problem & question
+I want to present intercity railroad, especially AMTRAK, in Northeast Corridor,
+try to identify significant stations or potential stations within this route.
+
+## The data
+1. Amtrak railroad
+2. Amtrak train route
+3. General Transit Feed data with information of timetable
+4. Census data: population, employment
+
+## Technologies used
+1. jQuery
+2. leaflet
+3. carto
+4. Mapbox
+
+## Design spec
+
+### User experience
+At a high level, how do you expect people to use your application?
+- Who are the users?
+  Transportation planners, passengers in Northeast Corridor
+- What do they gain from your application' use?
+  The route information. how much does it cost? How long it will take?
+  The major transit hub's information
+  The potential transit hub
+- Are there any website/application examples in the wild to which you can compare your final?
